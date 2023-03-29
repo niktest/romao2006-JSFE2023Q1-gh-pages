@@ -1,0 +1,11 @@
+.pets__card {
+    width: 270px;
+    height: 435px;
+    left: 105px;
+    top: 0px;
+    
+    /* color-light-s */
+    
+    background: #FAFAFA;
+    border-radius: 9px;
+}

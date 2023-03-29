@@ -1,0 +1,24 @@
+.header__links {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 160%;
+  color: #cdcdcd;
+  text-decoration: none;
+}
+
+
+.header__links:hover {
+  color: #fafafa;
+ 
+ 
+}
+
+.header__links:active {
+  color: #fafafa;
+  border-bottom: 3px solid #F1CDB3;
+ 
+}
+
+

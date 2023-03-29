@@ -1,0 +1,10 @@
+.about {
+  position: absolute;
+  width: 1280px;
+  height: 588px;
+  margin-left: auto;
+  margin-right: auto;
+  left: 40px;
+  right: 40px;
+  background: #ffffff;
+}
