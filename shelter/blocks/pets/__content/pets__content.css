@@ -1,0 +1,7 @@
+.pets__content {
+position: absolute;
+width: 1200px;
+height: 697px;
+left: calc(50% - 1200px/2);
+top: 80px;
+}

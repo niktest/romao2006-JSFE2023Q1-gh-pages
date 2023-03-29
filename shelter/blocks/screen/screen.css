@@ -1,0 +1,7 @@
+.screen { 
+  height: 908px;
+  margin: 0 auto;
+  background: url(../../img/start-screen-background.jpg);
+  background-size: cover  ;
+}
+
