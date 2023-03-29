@@ -1,7 +1,0 @@
-.donation__content{
-    position: absolute;
-    width: 915px;
-    height: 282px;
-    left: calc(50% - 915px/2 + 0.5px);
-    top: 80px;
-}

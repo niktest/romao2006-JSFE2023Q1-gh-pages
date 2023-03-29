@@ -1,9 +1,0 @@
-.pets__lider {
-  margin-bottom: 0;
-  display: grid;
-  grid-template-columns: repeat(3, 270px);
-  justify-content: space-evenly;
-  margin-top: 150px;
-  padding: 0;
-  list-style-type: none;
-}
